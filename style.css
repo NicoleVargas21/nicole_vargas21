@@ -1,0 +1,74 @@
+.fundo {
+  background-image: url(img/fundo4.jpg);
+  max-width: 100%;
+}
+h4 {
+  font-size: large;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+body {
+  font-size: larger;
+}
+.centro {
+  text-align: center;
+  font-size: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+header {
+  background: cornsilk;
+  font-size: large;
+  padding: 25px;
+  border: solid black;
+  border-radius: 15cm;
+}
+a {
+  color: black;
+  background: cornsilk;
+  padding: 5px;
+  border-radius: 6px;
+}
+p {
+  color: cornsilk;
+}
+.trocacordaletra {
+  color: cornsilk;
+}
+.fundoinicio {
+  background-image: url(img/textura.jpg);
+}
+.avatar {
+  border-radius: 100%;
+  width: 225px;
+}
+div {
+  text-align: center;
+}
+.textosobre {
+  color: white;
+  font-size: 25px;
+}
+img {
+  width: 350px;
+  border-radius: 4px;
+}
+.gato {
+  width: 200px;
+  border-radius: 8px;
+}
+.titulo {
+  font-size: 42px;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+ul {
+  color: white;
+}
