@@ -1,0 +1,30 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0px;
+}
+
+.comprar {
+  background: #bebeec;
+  color: blueviolet;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.item {
+  background: #d4d4da;
+  border: 1px solid #d4d4da;
+  padding: 20px;
+  border-radius: 4px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}

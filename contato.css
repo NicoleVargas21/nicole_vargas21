@@ -1,0 +1,39 @@
+label {
+  display: block;
+}
+h3 {
+  font-size: 50px;
+  color: white;
+}
+input {
+  font-size: 1.2rem;
+  padding: 5px;
+  border: 2px solid rgb(64, 91, 241);
+  border-radius: 4px;
+  background-color: white;
+}
+body {
+  text-align: center;
+  background-image: url(img/fundo5.jpg);
+}
+.checkbox label {
+  margin: 0px;
+  display: inline-block;
+}
+div {
+  background-color: white;
+  padding: 8px;
+  margin: 5px;
+}
+.caixa {
+  padding: 20px;
+  height: 50px;
+}
+form {
+  color: white;
+}
+.imagen {
+  background-image: url(img/faixafeminina2.jpg);
+  margin: 0px;
+  padding: 100px;
+}

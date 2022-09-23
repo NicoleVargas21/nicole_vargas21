@@ -1,0 +1,23 @@
+label {
+  display: block;
+}
+body {
+  font-size: 1.2rem;
+}
+input {
+  font-size: 1rem;
+  padding: 5px;
+  border: 2px solid palevioletred;
+  border-radius: 4px;
+}
+.caixa {
+  height: 60px;
+}
+html {
+  font-family: "Courier New", Courier, monospace;
+  margin: 15px;
+}
+
+.fundo {
+  background-image: url("luz-fundo-abstrato-das-luzes-suaves-cor-de-rosa-40075828.jpg");
+}
